@@ -4,10 +4,11 @@ Simple command line program to save and automatize rsync tasks.
 
 FLAGS:
 - autorecursion: every time it synchronizes a directory it automatically does so recursively
+  
   Commands:
-  atsync autorecursion on : it activate the autorecursion
-  atsync autorecursion off: it deactivate the autorecursion
-  atsync autorecursion chk: it return the present value of the flag
+  - atsync autorecursion on : it activate the autorecursion
+  - atsync autorecursion off: it deactivate the autorecursion 
+  - atsync autorecursion chk: it return the present value of the flag
 
 PROFILE COMMAND:
 Profiles are like different folders where you store the paths and options of the synchronizing process.
