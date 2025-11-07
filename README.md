@@ -1,6 +1,6 @@
 # atsync
 
-Simple command line program to save and automatize rsync tasks. \
+Simple command line program to save and automatize rsync tasks.
 
 FLAGS:
 - autorecursion: every time it synchronizes a directory it automatically does so recursively
