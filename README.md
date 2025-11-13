@@ -18,7 +18,7 @@ PROFILE COMMAND: profiles are like different folders where you store the paths a
 - atsync profile print: it print he list of pahts stored in the current profile
 - atsync profile chk: it print the name of the current profile
 
-PATHS COMMANDS: once you selected a profile with *atsync profile select name* you can:
+PATHS COMMANDS: once you selected a profile with *atsync profile select name* you execute:
 
 - atsync add *source_path* *target_path* *options*: this will add a source a target and the options for rsync to use
 - atsync print: this will print all the saved paths in the selected profile
